@@ -1,0 +1,12 @@
+@import "base/normalize";
+@import "base/typography";
+
+@import "helpers/mixins";
+@import "helpers/variables-tailwind";
+@import "helpers/fonts";
+
+@import "vendors/tailwind";
+
+.background {
+    background-color: #ffffff;
+}
